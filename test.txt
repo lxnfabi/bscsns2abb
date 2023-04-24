@@ -1,0 +1,2 @@
+# bscsns2abb
+this is a demo of git configuration
